@@ -1,0 +1,31 @@
+<!--<image class="bg" src="../images/bg.jpg"></image>-->
+<image class="bg" src="../images/cc.gif"></image>
+<view class="my_time">
+    <view class="content">
+        <view class="top">
+            <view class="color_one">今天是</view>
+            <view class="color_two">吕钱阵</view>
+            <view class="color_three">郭娜</view>
+            <view class="color_fore">相识的</view>
+        </view>
+        <view class="time">
+            <view class="my_day">
+                <text class="item1">第</text>
+                <text>{{day}}</text>
+                <text class="item">天</text>
+            </view>
+            <view class="my_hours">
+                <text>{{hours}}</text>
+                <text class="item">小时</text>
+            </view>
+            <view class="my_minutes">
+                <text>{{minutes}}</text>
+                <text class="item">分钟</text>
+            </view>
+            <view class="my_seconds">
+                <text>{{seconds}}</text>
+                <text class="item">秒</text>
+            </view>
+        </view>
+    </view>
+</view>

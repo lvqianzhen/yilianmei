@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35bdb263-775c-47b7-b65d-03a43d878c55" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/chatRecord/chatRecord.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/my/my.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/chatRecord/chatRecord.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/my/my.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/my/my.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectHide</find>
+      <find>select_box</find>
+      <find>commodity_attr_box</find>
+      <find>scrollTop</find>
+      <find>windowWidth</find>
+      <find>img_view</find>
+      <find>_saveRiconfont</find>
+      <find>close_img</find>
+      <find>addimg</find>
+      <find>_saveRichText</find>
+      <find>focus</find>
+      <find>user_input_text</find>
+      <find>triggerEvent</find>
+      <find>getImg</find>
+      <find>pixelRatio</find>
+      <find>my_info_top_left</find>
+      <find>user_type</find>
+      <find>my_avatar</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/chat/chat.json" />
+        <option value="$PROJECT_DIR$/components/selectGoodCarType/selectGoodCarType.json" />
+        <option value="$PROJECT_DIR$/components/selectGoodCarType/selectGoodCarType.js" />
+        <option value="$PROJECT_DIR$/components/selectGoodCarType/selectGoodCarType.wxml" />
+        <option value="$PROJECT_DIR$/components/selectGoodCarType/selectGoodCarType.wxss" />
+        <option value="$PROJECT_DIR$/pages/chat/chat.js" />
+        <option value="$PROJECT_DIR$/pages/chat/chat.wxml" />
+        <option value="$PROJECT_DIR$/pages/chat/chat.wxss" />
+        <option value="$PROJECT_DIR$/pages/useUpload/useUpload.json" />
+        <option value="$PROJECT_DIR$/components/upload/upload.json" />
+        <option value="$PROJECT_DIR$/components/upload/upload.wxss" />
+        <option value="$PROJECT_DIR$/pages/useUpload/useUpload.wxss" />
+        <option value="$PROJECT_DIR$/components/upload/upload.js" />
+        <option value="$PROJECT_DIR$/components/upload/upload.wxml" />
+        <option value="$PROJECT_DIR$/pages/useUpload/useUpload.js" />
+        <option value="$PROJECT_DIR$/pages/useUpload/useUpload.wxml" />
+        <option value="$PROJECT_DIR$/pages/imgUpload/imgUpload.wxss" />
+        <option value="$PROJECT_DIR$/pages/imgUpload/imgUpload.wxml" />
+        <option value="$PROJECT_DIR$/pages/imgUpload/imgUpload.json" />
+        <option value="$PROJECT_DIR$/pages/imgUpload/imgUpload.js" />
+        <option value="$PROJECT_DIR$/pages/cropper/fu.js" />
+        <option value="$PROJECT_DIR$/pages/cropper/fu.json" />
+        <option value="$PROJECT_DIR$/pages/cropper/fu.wxml" />
+        <option value="$PROJECT_DIR$/pages/cropper/cropper.js" />
+        <option value="$PROJECT_DIR$/pages/cropper/cropper.wxml" />
+        <option value="$PROJECT_DIR$/pages/cropper/cropper.wxss" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.wxml" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.wxss" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.js" />
+        <option value="$PROJECT_DIR$/pages/uploadFile/cropper/cropper.js" />
+        <option value="$PROJECT_DIR$/pages/uploadFile/upload/upload.wxss" />
+        <option value="$PROJECT_DIR$/we-cropper/dist/we-cropper.wxml" />
+        <option value="$PROJECT_DIR$/pages/uploadFile/upload/upload.wxml" />
+        <option value="$PROJECT_DIR$/pages/uploadFile/upload/upload.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/index/index.json" />
+        <option value="$PROJECT_DIR$/pages/index/index.js" />
+        <option value="$PROJECT_DIR$/pages/chatRecord/chatRecord.json" />
+        <option value="$PROJECT_DIR$/pages/travelVideo/travelVideo.json" />
+        <option value="$PROJECT_DIR$/pages/my/my.json" />
+        <option value="$PROJECT_DIR$/pages/travelVideo/travelVideo.wxss" />
+        <option value="$PROJECT_DIR$/app.wxss" />
+        <option value="$PROJECT_DIR$/pages/chatRecord/chatRecord.wxss" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/pages/my/my.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/pages/chatRecord/chatRecord.js" />
+        <option value="$PROJECT_DIR$/pages/my/my.wxml" />
+        <option value="$PROJECT_DIR$/pages/my/my.wxss" />
+        <option value="$PROJECT_DIR$/pages/chatRecord/chatRecord.wxml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="433" />
+    <option name="y" value="113" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="chatRecord" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="travelVideo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyStudy\pages\images" />
+      <recent name="D:\MyStudy\imagesOne\pages\images" />
+      <recent name="D:\MyStudy" />
+      <recent name="D:\MyStudy\pages" />
+      <recent name="D:\MyStudy\pages\upload" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyStudy\pages\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35bdb263-775c-47b7-b65d-03a43d878c55" name="Default Changelist" comment="" />
+      <created>1557121311944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557121311944</updated>
+      <workItem from="1557121314227" duration="97000" />
+      <workItem from="1557121429992" duration="7160000" />
+      <workItem from="1557191707037" duration="17000" />
+      <workItem from="1557299945748" duration="4436000" />
+      <workItem from="1557363774478" duration="21011000" />
+      <workItem from="1557449640274" duration="21908000" />
+      <workItem from="1557536442850" duration="31000" />
+      <workItem from="1557556389047" duration="13150000" />
+      <workItem from="1557712223886" duration="21263000" />
+      <workItem from="1557811495315" duration="5808000" />
+      <workItem from="1557882128904" duration="3806000" />
+      <workItem from="1557900535876" duration="7951000" />
+      <workItem from="1557908765195" duration="9265000" />
+      <workItem from="1557968300560" duration="9980000" />
+      <workItem from="1557987121025" duration="11794000" />
+      <workItem from="1558315216832" duration="4480000" />
+      <workItem from="1558330148043" duration="8045000" />
+      <workItem from="1558404317419" duration="15603000" />
+      <workItem from="1558487278936" duration="19575000" />
+      <workItem from="1558592229411" duration="76000" />
+      <workItem from="1558929580923" duration="6121000" />
+      <workItem from="1559005070250" duration="291000" />
+      <workItem from="1559105522751" duration="2564000" />
+      <workItem from="1559265401493" duration="1813000" />
+      <workItem from="1559293906112" duration="3962000" />
+      <workItem from="1559350864811" duration="11661000" />
+      <workItem from="1559523184332" duration="11113000" />
+      <workItem from="1560854725109" duration="2263000" />
+      <workItem from="1564565897939" duration="2075000" />
+      <workItem from="1572682203510" duration="8375000" />
+      <workItem from="1572828364661" duration="3016000" />
+      <workItem from="1572850391708" duration="217000" />
+      <workItem from="1572946231194" duration="559000" />
+      <workItem from="1573109759268" duration="1600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241086000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23340358" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947312" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49894625" weight="0.3261105" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50105375" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/useUpload/useUpload.wxml" />
+    <entry file="file://$PROJECT_DIR$/pages/fu/fu.json" />
+    <entry file="file://$PROJECT_DIR$/pages/imgUpload/imgUpload.json" />
+    <entry file="file://$PROJECT_DIR$/pages/imgUpload/imgUpload.wxml" />
+    <entry file="file://$PROJECT_DIR$/pages/fu/fu.js" />
+    <entry file="file://$PROJECT_DIR$/pages/imgUpload/imgUpload.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/tools/demo/pages/index/index.wxml" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/tools/demo/pages/index/index.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/tools/demo/app.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/tools/demo/app.json" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/tools/demo/app.wxss" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/test/index.test.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/test/utils.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/test/wx.test.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/src/common.wxss" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/packages/miniprogram-cropper/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/pages/cropper/cropper.json" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/we-cropper.wxml" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/src/core/scale.js" />
+    <entry file="file://$PROJECT_DIR$/pages/upload/upload.js" />
+    <entry file="file://$PROJECT_DIR$/pages/cropper/cropper.wxml" />
+    <entry file="file://$PROJECT_DIR$/pages/cropper/cropper.wxss" />
+    <entry file="file://$PROJECT_DIR$/pages/upload/upload.wxss" />
+    <entry file="file://$PROJECT_DIR$/pages/upload/upload.wxml" />
+    <entry file="file://$PROJECT_DIR$/pages/cropper/cropper.js" />
+    <entry file="file://$PROJECT_DIR$/pages/uploadFile/upload/upload.wxml" />
+    <entry file="file://$PROJECT_DIR$/pages/uploadFile/upload/upload.js" />
+    <entry file="file://$PROJECT_DIR$/pages/uploadFile/upload/upload.wxss" />
+    <entry file="file://$PROJECT_DIR$/pages/uploadFile/cropper/cropper.js" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/dist/we-cropper.wxml" />
+    <entry file="file://$PROJECT_DIR$/we-cropper/dist/we-cropper.js" />
+    <entry file="file://$PROJECT_DIR$/pages/travelVideo/travelVideo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/travelVideo/travelVideo.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/travelVideo/travelVideo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/util.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/images/2019-10-19 063806.png" />
+    <entry file="file://$PROJECT_DIR$/app.wxss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/chatRecord/chatRecord.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/my/my.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/travelVideo/travelVideo.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/chatRecord/chatRecord.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/my/my.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/my/my.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/chatRecord/chatRecord.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/my/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/chatRecord/chatRecord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

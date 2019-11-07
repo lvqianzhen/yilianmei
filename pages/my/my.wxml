@@ -1,0 +1,37 @@
+<image class="my_bg" src="../images/bg_my.jpg"></image>
+<!--<image class="my_bg" src="../images/bb.jpg"></image>-->
+<view class="my_box">
+    <view class="my_info">
+        <view class="my_avatar">
+            <!--            刚进来没有登录显示的头像-->
+            <image src="../images/user_null_avatar.png" wx:if="{{!accessToken}}"></image>
+            <!--            授权之后拿到用户名之后的头像-->
+            <image src="{{avatarUrl}}" wx:if="{{accessToken}}"></image>
+        </view>
+    </view>
+    <view class="my_right">
+        <view class="my_info_top">
+            <!--            没有授权显示的按钮-->
+            <view class="my_info_top_left_one" wx:if="{{!accessToken}}">
+                <button wx:if="{{canIUse}}" open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">
+                    绑定/登录
+                </button>
+                <view class="version" wx:else>请升级微信版本</view>
+            </view>
+            <view class="my_info_top_left" wx:if="{{accessToken}}">
+                {{userName}}
+            </view>
+        </view>
+        <view class="my_bottom">
+            <view class="user_type" wx:if="{{accessToken}}">
+                {{gender}}
+            </view>
+        </view>
+    </view>
+</view>
+<!--{-->
+<!--"pagePath": "pages/travelVideo/travelVideo",-->
+<!--"text": "旅游视频",-->
+<!--"iconPath":"pages/images/video_null.png",-->
+<!--"selectedIconPath":"pages/images/video_active.png"-->
+<!--},-->

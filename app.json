@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/chatRecord/chatRecord",
+    "pages/travelVideo/travelVideo",
+    "pages/my/my"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "borderStyle":"black",
+    "selectedColor": "#1296db",
+    "color": "#bfbfbf",
+    "list": [
+      {
+        "pagePath": "pages/chatRecord/chatRecord",
+        "text": "聊天记录",
+        "iconPath":"pages/images/chat_null.png",
+        "selectedIconPath":"pages/images/chat_active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "个人中心",
+        "iconPath":"pages/images/my_null.png",
+        "selectedIconPath":"pages/images/my_active.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

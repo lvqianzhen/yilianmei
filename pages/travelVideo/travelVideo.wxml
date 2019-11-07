@@ -1,0 +1,23 @@
+<!--selectList.wxml-->
+<view class="container log-list">
+  <view class="userInfo">
+    <view class="avatarUrl">
+      <image class="my_avatar" src="{{avatarUrl}}"></image>
+    </view>
+    <view class="info_item">{{city}}</view>
+    <view class="info_item">{{nickName}}</view>
+    <view class="info_item">{{country}}</view>
+    <view class="info_item">{{province}}</view>
+  </view>
+  <!-- 如果只是展示用户头像昵称，可以使用 <open-data /> 组件 -->
+<!--  <open-data type="userAvatarUrl"></open-data>-->
+<!--  <open-data type="userNickName"></open-data>-->
+  <!-- 需要使用 button 来授权登录 -->
+  <button
+          wx:if="{{authorization}}"
+          open-type="getUserInfo"
+          bindgetuserinfo="bindGetUserInfo"
+  >
+    授权登录
+  </button>
+</view>
